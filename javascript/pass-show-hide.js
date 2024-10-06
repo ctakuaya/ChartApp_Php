@@ -10,4 +10,3 @@ toggleIcon.onclick = () =>{
     toggleIcon.classList.remove("active");
   }
 }
-
